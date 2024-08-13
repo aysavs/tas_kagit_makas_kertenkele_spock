@@ -1,5 +1,3 @@
-# tas_kagit_makas_kertenkele_spock
-
 # Taş, Kağıt, Makas, Kertenkele, Spock Oyunu
 
 ## Açıklama
