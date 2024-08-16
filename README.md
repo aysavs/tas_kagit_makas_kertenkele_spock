@@ -41,6 +41,4 @@ Bu proje, klasik "Taş, Kağıt, Makas" oyununa iki ek seçenek ekleyen bir Pyth
 
 Katkıda bulunmak isterseniz, kod üzerinde değişiklik yapabilir ve pull request oluşturabilirsiniz. Herhangi bir hata raporu veya öneri için lütfen bir issue açın.
 
-## Lisans
 
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
